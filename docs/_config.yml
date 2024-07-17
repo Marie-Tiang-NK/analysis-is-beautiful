@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : portfolYOU
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      My professional portfolio for learnings and insights in business analysis, 
+                      data analytics and more
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
